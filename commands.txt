@@ -1,0 +1,2 @@
+// local commands
+python infra/helper.py generate --external --language=c++ $PATH_TO_PROJECT
